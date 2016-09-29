@@ -6,7 +6,7 @@ public class GameManager : MonoBehaviour {
 	public static GameManager instance = null;
 
 	public MovableActorBody player;
-	public MovableActorBody trainer;
+	public MovableActorBody trainer = null;
 
 	void Awake () {
 		// make singleton
@@ -18,6 +18,13 @@ public class GameManager : MonoBehaviour {
 
 		LocalMap.LoadMap (Vector2.zero);
 		LocalMap.RenderMap ();
+
+		trainer = Instantiate(
+			Resources.Load("Prefabs/DummyTrainer"),
+			new Vector3(2f,3f,0f),
+			Quaternion.identity,
+			this.transform
+		) as MovableActorBody;
 	}
 
 	Vector2 getInputAsVector(){
