@@ -1,0 +1,2397 @@
+fileFormatVersion: 2
+guid: 1c93870afc52d0042ba841e10c770d04
+timeCreated: 1472343055
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_0
+    21300002: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_1
+    21300004: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_12
+    21300006: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_13
+    21300008: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_26
+    21300010: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_27
+    21300012: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_36
+    21300014: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_37
+    21300016: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_57
+    21300018: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_60
+    21300020: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_61
+    21300022: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_69
+    21300024: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_77
+    21300026: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_78
+    21300028: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_79
+    21300030: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_80
+    21300032: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_81
+    21300034: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_82
+    21300036: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_83
+    21300038: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_93
+    21300040: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_98
+    21300042: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_99
+    21300044: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_100
+    21300046: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_101
+    21300048: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_102
+    21300050: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_103
+    21300052: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_104
+    21300054: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_105
+    21300056: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_106
+    21300058: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_117
+    21300060: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_123
+    21300062: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_124
+    21300064: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_125
+    21300066: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_126
+    21300068: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_127
+    21300070: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_128
+    21300072: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_129
+    21300074: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_130
+    21300076: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_141
+    21300078: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_148
+    21300080: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_149
+    21300082: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_150
+    21300084: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_151
+    21300086: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_152
+    21300088: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_153
+    21300090: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_165
+    21300092: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_172
+    21300094: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_173
+    21300096: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_174
+    21300098: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_175
+    21300100: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_176
+    21300102: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_177
+    21300104: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_189
+    21300106: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_195
+    21300108: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_196
+    21300110: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_197
+    21300112: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_198
+    21300114: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_199
+    21300116: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_200
+    21300118: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_201
+    21300120: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_202
+    21300122: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_213
+    21300124: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_229
+    21300126: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_230
+    21300128: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_231
+    21300130: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_232
+    21300132: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_233
+    21300134: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_234
+    21300136: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_235
+    21300138: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_237
+    21300140: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_253
+    21300142: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_254
+    21300144: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_255
+    21300146: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_256
+    21300148: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_257
+    21300150: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_258
+    21300152: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_259
+    21300154: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_260
+    21300156: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_261
+    21300158: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_272
+    21300160: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_273
+    21300162: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_277
+    21300164: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_278
+    21300166: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_279
+    21300168: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_280
+    21300170: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_281
+    21300172: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_282
+    21300174: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_283
+    21300176: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_284
+    21300178: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_285
+    21300180: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_293
+    21300182: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_297
+    21300184: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_301
+    21300186: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_302
+    21300188: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_303
+    21300190: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_304
+    21300192: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_305
+    21300194: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_306
+    21300196: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_307
+    21300198: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_308
+    21300200: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_309
+    21300202: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_321
+    21300204: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_325
+    21300206: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_326
+    21300208: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_327
+    21300210: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_328
+    21300212: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_329
+    21300214: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_330
+    21300216: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_331
+    21300218: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_332
+    21300220: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_333
+    21300222: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_341
+    21300224: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_342
+    21300226: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_343
+    21300228: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_344
+    21300230: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_345
+    21300232: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_356
+    21300234: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_357
+    21300236: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_372
+    21300238: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_373
+    21300240: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_374
+    21300242: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_375
+    21300244: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_376
+    21300246: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_377
+    21300248: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_378
+    21300250: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_379
+    21300252: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_381
+    21300254: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_396
+    21300256: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_403
+    21300258: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_405
+    21300260: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_410
+    21300262: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_411
+    21300264: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_412
+    21300266: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_413
+    21300268: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_414
+    21300270: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_415
+    21300272: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_416
+    21300274: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_418
+    21300276: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_429
+    21300278: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_434
+    21300280: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_435
+    21300282: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_436
+    21300284: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_437
+    21300286: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_438
+    21300288: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_439
+    21300290: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_440
+    21300292: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_442
+    21300294: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_443
+    21300296: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_444
+    21300298: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_445
+    21300300: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_446
+    21300302: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_447
+    21300304: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_448
+    21300306: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_449
+    21300308: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_450
+    21300310: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_451
+    21300312: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_452
+    21300314: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_453
+    21300316: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_458
+    21300318: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_459
+    21300320: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_467
+    21300322: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_468
+    21300324: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_469
+    21300326: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_470
+    21300328: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_471
+    21300330: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_472
+    21300332: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_473
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 45, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 333
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 333
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 333
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_37
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 333
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_69
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_77
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 301
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 301
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_79
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 301
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 301
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 301
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 301
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_83
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 301
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_93
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 301
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 285
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 285
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 285
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 285
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 285
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 285
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 285
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_105
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 285
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_106
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 285
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_117
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 285
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_130
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_141
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_149
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_150
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_151
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_152
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_153
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_165
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_172
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 237
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_173
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 237
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_174
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 237
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_175
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 237
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_176
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 237
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_177
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 237
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_189
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 237
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_195
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_196
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_197
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_198
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_199
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_200
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_201
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_202
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_213
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_229
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_230
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_231
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_232
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_233
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_234
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_235
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_237
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_253
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_254
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_255
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_256
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_257
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_258
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_259
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_260
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_261
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_272
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_273
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_277
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_278
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_279
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_280
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_281
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_282
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_283
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_284
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_285
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_293
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_297
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_301
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_302
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_303
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_304
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_305
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_306
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_307
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_308
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_309
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_321
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_325
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_326
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_327
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_328
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_329
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_330
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_331
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_332
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_333
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_341
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_342
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_343
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_344
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_345
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_356
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_357
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_372
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_373
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_374
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_375
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_376
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_377
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_378
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_379
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_381
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_396
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_403
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_405
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_410
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_411
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_412
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_413
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_414
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_415
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_416
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_418
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_429
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_434
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_435
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_436
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_437
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_438
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_439
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_440
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_442
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_443
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_444
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_445
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_446
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_447
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_448
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_449
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_450
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_451
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_452
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_453
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_458
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_459
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_467
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_468
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_469
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_470
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_471
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_472
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokmon FireRed LeafGreen - Pallet Town_473
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
