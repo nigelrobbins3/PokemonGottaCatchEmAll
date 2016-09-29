@@ -19,19 +19,22 @@ public class GameManager : MonoBehaviour {
 		LocalMap.LoadMap (Vector2.zero);
 		LocalMap.RenderMap ();
 
-		player = Instantiate(
+		GameObject playerbody = Instantiate(
 			Resources.Load("Prefabs/PlayerBody"),
 			new Vector3(-5f,3f,0f),
 			Quaternion.identity,
 			this.transform
-		) as MovableActorBody;
+		) as GameObject;
+		player = playerbody.GetComponent<MovableActorBody>();
 
-		trainer = Instantiate(
+		GameObject trainerbody = Instantiate(
 			Resources.Load("Prefabs/DummyTrainer"),
 			new Vector3(2f,3f,0f),
 			Quaternion.identity,
 			this.transform
-		) as MovableActorBody;
+		) as GameObject;
+		trainer = trainerbody.GetComponent<MovableActorBody>();
+		trainerbody.GetComponent<SpriteRenderer> ().color = Color.green;
 	}
 
 	Vector2 getInputAsVector(){
@@ -42,6 +45,7 @@ public class GameManager : MonoBehaviour {
 		if (Input.GetButton ("downKB")) direction.y -= 1;
 		return direction;
 	}
+
 	private Vector2 trainerInput = Vector2.down;
 	void Update () {
 		if (trainer.gameObject.transform.position.y < -3)
